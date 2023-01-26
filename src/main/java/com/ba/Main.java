@@ -5,6 +5,8 @@ public class Main {
 
         System.out.println("sildim");
 
-        System.out.println("ekledim");
+        System.out.println("1");
+        System.out.println("2");
+
     }
 }
